@@ -49,3 +49,9 @@
 - [LSTM Time Series Forecasting Tutorial in Python](https://www.youtube.com/watch?v=c0k-YLQGKjY)
 #### Articles
 - [What is LSTM?](https://www.geeksforgeeks.org/deep-learning-introduction-to-long-short-term-memory/)
+
+### System Design and Analysis
+#### Video
+- [System Design for Beginners Course](https://www.youtube.com/watch?v=m8Icp_Cid5o)
+#### Articles
+- [System Analysis and Design](https://www.geeksforgeeks.org/system-analysis-system-design/)
