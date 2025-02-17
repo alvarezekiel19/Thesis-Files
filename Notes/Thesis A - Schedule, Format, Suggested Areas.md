@@ -21,35 +21,29 @@ By: Dean Joseph Albert Mazo
 - Appendix B: Team Project Assignments Form
 
 **Title Defense:** (Week 4)
-- Dates: Sept 2-7, 2024
 - Appendix A: Title Proposal Form
   
 **Writing of Manuscript (Chapter 1 - 3)** (Week 5-12)
-- Dates: Sept 9 - 25, 2024
 - Appendix C: Adviser Consultation Log
   
 **Scheduling of Defense** (Week 12)
-- Dates:  Sept 20 - 25, 2024
 - Appendix D: Adviser's Endorsement Form
 - Appendix E: Oral Defense Hearing Notice
-- Manuscript Chapters 1-3 (x3)
+- Manuscript Chapters 3-5 (x3)
   
 **Proposal Defense** (Week 13)
-- Dates: Oct 1 - 2 , 2024
 - Appendix F: oral Defense Sheet
   
 **Submission and Approval of Revisions from the Panel Members** (Week 14)
-- Dates: Oct 4 - 9, 2024
 - Revised Manuscript
   
 **Submission of Final Manuscript** (Week 15)
-- Dates: Oct 11 - 16, 2024
 - Final Manuscript
 - Appendix G: Peer Evaluation
 
-**Thesis and Capstone Fees:** Php 2,156.25
-- Pay before proposal/oral defense
-- Cost may change
+**Thesis and Capstone Fees:** Php 4,200
+- Pay before final defense (Tentative Date: February 21, 2025)
+- The fee includes assistance from the statistician and the panelist fee.
 ---
 ## Format Involving Foundations of Computer Science
 
